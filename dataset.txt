@@ -1,8 +1,4 @@
-diapers,beer,rice,chicken
-diapers,beer,rice
-diapers,beer
-yogurt,cookies
-milk,beer,rice,chicken
-milk,beer,rice
-milk,beer
-milk,cookies
+A,C,D
+B,C,E
+A,B,C,E
+B,E
